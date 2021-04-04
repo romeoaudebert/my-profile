@@ -1,0 +1,117 @@
+body
+{ 
+background-color: #FBEFF5;
+  color: lighter black;
+  font-family: 'Lora', serif;
+  font-weight: lighter;
+  line-height: 1.4;
+  background-image: url(image/Cloud.jpg);
+  background-size: cover;
+}
+h1 {
+  color: red;
+  font-family: 'Chalkduster', fantasy;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: uppercase;
+  }
+
+h2 {
+	color: pink;
+	font-weight: bold;
+	font-size: 25px;
+	text-transform: uppercase;
+	font-family: 'Chalkduster', fantasy;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'optima', fantasy;
+	color: #4B088A;
+	font-weight: ;
+	font-size: 17px;
+	text-transform: uppercase;
+	transition: all 0.2s linear;
+}
+
+p {
+	text-justify: center;
+	font-family: 'Gill Sans', sans-serif;
+	font-weight: bolder;
+}
+
+ul {
+	font-family: 'Lora', serif;
+	font-weight: lighter;
+	text-justify: center;
+	list-style: none;
+	padding-left: 0px;
+}
+
+#P1 {
+	color: #4B088A; 
+}
+
+/* Custom design with class */
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-white {
+	background-color: #8258FA;
+	padding: 20px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 60%;
+}
+
+.btn-beige {
+	background-color: #F6CEE3;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 25px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 20px;
+}
+
+list-inline i {
+	font-size: 40px;
+}
+
+#introduction p {
+	margin-bottom: 20px;
+}
+
+.img-rectangle {
+	list-style: none;
+	padding-left: 20px;
+}
+
+.img-rectangle li {
+	display: none;
+	padding: 40px;
+}
+
+.list-inline img {
+	border-style: none;
+}
+
+
+
+
+
